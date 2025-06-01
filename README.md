@@ -29,7 +29,7 @@ Run the script:
 
 python
 python news_scraper.py
-Output will be saved to /articles/ directory:
+
 
 /articles/
    ├── article_1.txt (238 words)
